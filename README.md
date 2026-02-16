@@ -1,12 +1,5 @@
-# UCS757:Building Innovative Systems
-## Submitted by:-
-### Garhvita Sethi
-### 101803708
-### COE 15
+## Garhvita Sethi
 
-# Projects
-
-# Project 3: Sudoku Solver
 ## Introduction
 The web app takes an image of unsolved sudoku as the input and shows the solved sudoku
 
@@ -15,9 +8,6 @@ The web app takes an image of unsolved sudoku as the input and shows the solved 
 2. Numpy
 3. Glob
 4. OpenCV-Python
-
-## Live Link
-https://sudoku-solver-ds.herokuapp.com/
 
 ## Input Interface
 ![Interface](home.jpeg)
@@ -39,3 +29,4 @@ https://sudoku-solver-ds.herokuapp.com/
 2. Combining Digit recognition with sudoku solving algorithms
 3. Recognizing the numbers already present in the sudoku using KNN algorithm
 4. Solving the sudoku using backtracking
+
